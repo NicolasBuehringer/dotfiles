@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = n.buehringer@gmail.com
+	name = Nicolas Buehringer
